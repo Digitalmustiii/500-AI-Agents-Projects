@@ -206,7 +206,7 @@ Whether you're a developer, researcher, or business enthusiast, this repository 
 > **Long Context Handling**
 
 | Use Case                                 | Industry         | Description                                                                        | Notebook                                                                                                                                                    |
-| :--------------------------------------- | :--------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--------------------------------------- | :--------------- | :--------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 📜 Long Context Handling as A Capability | 🧠 AI Capability | Demonstrates techniques for handling long context effectively within AI workflows. | [![Notebook](https://img.shields.io/badge/View-Notebook-blue?logo=jupyter)](https://microsoft.github.io/autogen/0.2/docs/notebooks/agentchat_transform_messages) |
 
 > **Evaluation and Assessment**
